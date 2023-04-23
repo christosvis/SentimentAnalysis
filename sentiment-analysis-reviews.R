@@ -1,6 +1,6 @@
 # read data
 
-df <- read.csv("/Users/christos/Downloads/Reviews and comments.csv")
+df <- read.csv("")
 str(df)
 
 # build corpus
